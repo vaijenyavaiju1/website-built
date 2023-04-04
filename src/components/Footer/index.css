@@ -1,0 +1,27 @@
+.footer {
+  background-color: #12110e;
+  margin-top: 300px;
+  height: 30vh;
+  width: 100%;
+  background-size: cover;
+}
+
+.footer-para {
+  font-family: 'Georgia';
+  font-size: 20px;
+  color: #ffffff;
+  text-align: center;
+  padding: 20px;
+}
+
+.footer-para1 {
+  font-family: 'Georgia';
+  font-size: 15px;
+  color: #ffffff;
+}
+
+.footer-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}

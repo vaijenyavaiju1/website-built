@@ -1,0 +1,36 @@
+.nav-off {
+  height: 100px;
+  background-color: #06080a;
+}
+.div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.divOff {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.headOne {
+  font-size: 25px;
+  font-family: 'Roboto';
+  color: #ffffff;
+  text-align: center;
+  font-weight: 500;
+  padding-right: 60px;
+  padding-bottom: 10px;
+  text-decoration: none;
+  padding-top: 25px;
+}
+
+.head {
+  font-size: 22px;
+  font-family: 'Roboto';
+  color: #ffffff;
+  padding-right: 50px;
+  text-decoration: none;
+  padding-top: 20px;
+}
